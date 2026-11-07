@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for integrating an iText-powered PDF generation utility class with Android PdfDocument fallback, mapping Room database candidate resumes, ATS scores, and skill gap matrices into a multi-page executive report.",
+  "updatedAt": "2026-11-06T12:32:00.031373883Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
